@@ -1,0 +1,66 @@
+{
+  "event": [
+    {
+      "name": "SunBurn",
+      "email": "sunburn@gmail.com",
+      "address": "Goa, Maharashtra, India",
+      "id": 1
+    },
+    {
+      "name": "Bollyboom X Shirley Setia live with Rahul Dit-O",
+      "email": "shirletsettEn@gmail.com",
+      "address": "Whitefield Main Rd, Devasandra Industrial Estate, Mahadevpura, Bengaluru, Karnataka 560048, India",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "name": "Vishwa",
+      "email": "vmb4401@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "Anil",
+      "email": "anil@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "Anil",
+      "email": "anil@gmail.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "name": "Anil",
+      "email": "anil@gmail.com",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "name": "Veeresh",
+      "email": "veeresh@gmail.com",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "name": "Poonam",
+      "email": "poonam@gmail.com",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "name": "Poonam",
+      "email": "poonam@gmail.com",
+      "password": "123",
+      "id": 7
+    },
+    {
+      "name": "Vivek",
+      "email": "vickypedia@gmail.com",
+      "password": "12345678",
+      "id": 8
+    }
+  ]
+}
